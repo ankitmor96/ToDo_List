@@ -111,6 +111,9 @@ JavaScript array methods such as `map()` are used to update and display todo ite
 
 ## 📊 Todo Status
 
+<img width="1917" height="777" alt="Screenshot 2026-10-03 121410" src="https://github.com/user-attachments/assets/22a25cac-1697-43d8-a2b2-02e5f38aca60" />
+
+
 The application keeps track of three basic counts:
 
 | Status      | Description                  |
@@ -129,7 +132,7 @@ It helps understand how React state changes update the user interface dynamicall
 
 **Ankit Mor**
 
-GitHub: [ankitmor96](https://github.com/ankitmor96)
+GitHub: [ankitmor96]([https://github.com/ankitmor96](https://github.com/ankitmor96/ToDo_List/edit/main/README.md))
 
 ## 📄 License
 
